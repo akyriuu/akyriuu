@@ -34,6 +34,9 @@ I go by Akyriu across the web — same name, every platform:
 LinkedIn — Marcus Vinícius - https://www.linkedin.com/in/marcus-vin%C3%ADcius-4a9a713a0/
 
 
+Email - Akyriu or Marcus - akyriu@hotmail.com
+
+
 YouTube — @Akyriu (hobby) - https://www.youtube.com/@Akyriu?app=desktop
 
 
