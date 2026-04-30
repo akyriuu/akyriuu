@@ -31,7 +31,7 @@ JavaScript · TypeScript · Node.js · Docker · PostgreSQL · HTML · CSS
 ## Find Akyriu
 I go by Akyriu across the web — same name, every platform:
 
-E-mail - Akyriu or Marcus - akyriu@hotmail.com
+E-mail - akyriu@hotmail.com
 
 
 LinkedIn — Marcus Vinícius - https://www.linkedin.com/in/marcus-vin%C3%ADcius-4a9a713a0/
