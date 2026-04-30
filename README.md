@@ -21,8 +21,14 @@ JavaScript · TypeScript · Node.js · Docker · PostgreSQL · HTML · CSS
 I go by Akyriu across the web — same name, every platform:
 
 LinkedIn — Marcus Vinícius - https://www.linkedin.com/in/marcus-vin%C3%ADcius-4a9a713a0/
+
+
 YouTube — @Akyriu (hobby) - https://www.youtube.com/@Akyriu?app=desktop
+
+
 Instagram — @akyriu - https://www.instagram.com/akyriu/
+
+
 GitHub — akyriuu - https://github.com/akyriuu
 
 Languages: Portuguese (native) · English (fluent) · Open to remote, any timezone.
