@@ -16,6 +16,8 @@ Looking to collaborate on projects with more complexity and teams who can add kn
 
 Ask me about anything! I actually like to talk and I'm willing to take any advices or answer any questions regarding my personal profile.
 
+It may be important to know that english is my second language, but it does not matter at all, as I speak it normally and actually more frequently online. My first language is brazilian portuguese. So i'm ready for conversations in any of the mentioned before.
+This is only important in cases where you may try contact when I'm actually on a different time zone, so bear that in mind.
 
 ## How to find me and to reach me: ...
 
