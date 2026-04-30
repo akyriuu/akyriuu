@@ -20,10 +20,14 @@ Ask me about anything! I actually like to talk and I'm willing to take any advic
 ## How to find me and to reach me: ...
 
 linkedin: https://www.linkedin.com/in/marcus-vin%C3%ADcius-4a9a713a0/
+
+
 Akyriu on Youtube: https://www.youtube.com/@Akyriu
+
+
 Akyriu on Instagram: https://www.instagram.com/akyriu/
 
-I did youtube for fun, and I'm active on instagam, active user of Linkedin and Web with the Akyriu username, or variables like Akyriuu.
+I did youtube for fun, and I'm active on instagram, active user of Linkedin and Web with the Akyriu username, or variables like Akyriuu.
 
 I'm glad you finished this! I look forward to future projects and I'm willing to participate in Developer related fields, contact me anytime and more contact info on Linkedin! 
 
