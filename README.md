@@ -1,38 +1,28 @@
 ## Hi there.
+I'm Marcus, known online as Akyriu — 22, JavaScript developer focused on backend infrastructure and systems that actually work.
+Currently employed in Technical Support at an internet provider, building personal projects on the side and learning by doing: Node.js, Docker, TypeScript. My method is jumping into real problems rather than tutorials.
+Looking to collaborate with teams who value solid engineering and room to grow.
 
-<!--
-**akyriuu/akyriuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I'm Marcus, 22, or more like in the profile and online in general, Akyriu. 
-
-
-I'm a specialized JavaScript developer, with focus on creative and optimized systems as well as back-end infrastructure.
-
-I’m working on personal projects and I work professionally in a internet provider, more specific Technical Support. 
-
-Currently learning node.js, docker and Typescript in general. My method is jumping right into it and adapting to learn what I need to learn, always trying to participate in real projects, with real experience.
- 
-Looking to collaborate on projects with more complexity and teams who can add knowledge and great results in the future, as I intend to give value and learn with real experience.
-
-Ask me about anything! I actually like to talk and I'm willing to take any advices or answer any questions regarding my personal profile.
-
-## Language and Time zones
-
-It may be important to know that english is my second language, but it does not matter at all, as I speak it normally and actually more frequently online. My first language is brazilian portuguese. So i'm ready for conversations in any of the mentioned before.
-This is only important in cases where you may try contact when I'm actually on a different time zone, so bear that in mind.
-
-## How to find me and to reach me: ...
-
-linkedin: https://www.linkedin.com/in/marcus-vin%C3%ADcius-4a9a713a0/
+Ask me anything — I'm genuinely open to feedback, advice, and new connections.
 
 
-Akyriu on Youtube: https://www.youtube.com/@Akyriu
+## What I've Built
 
+A quick look at my progression, not just a list:
+Monitoring-System — Real-time latency dashboard for web services. TypeScript with strict config, async Fetch API, dynamic DOM-driven UI with smooth status transitions (green/yellow/red). The project I'm most proud of technically.
+Study_List_Docker — Started as a simple localStorage CRUD, migrated to PostgreSQL inside Docker. The README explains every decision. Good example of how I think about progression and production-readiness.
+Finances-Solution — Personal finance tracker in TypeScript. Full CRUD, category filters, running totals in BRL. No server needed to run it.
+Snake_Game — Vanilla JS/HTML/CSS practice project. Collision detection, score system, mobile CSS. Playable here.
 
-Akyriu on Instagram: https://www.instagram.com/akyriu/
+## Stack
+JavaScript · TypeScript · Node.js · Docker · PostgreSQL · HTML · CSS
 
-I did youtube for fun, and I'm active on instagram, active user of Linkedin and Web with the Akyriu username, or variables like Akyriuu.
+## Find Akyriu
+I go by Akyriu across the web — same name, every platform:
 
-I'm glad you finished this! I look forward to future projects and I'm willing to participate in Developer related fields, contact me anytime and more contact info on Linkedin! 
+LinkedIn — Marcus Vinícius - https://www.linkedin.com/in/marcus-vin%C3%ADcius-4a9a713a0/
+YouTube — @Akyriu (hobby) - https://www.youtube.com/@Akyriu?app=desktop
+Instagram — @akyriu - https://www.instagram.com/akyriu/
+GitHub — akyriuu - https://github.com/akyriuu
 
-## Thanks!
+Languages: Portuguese (native) · English (fluent) · Open to remote, any timezone.
