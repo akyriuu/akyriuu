@@ -10,7 +10,7 @@ I'm a specialized JavaScript developer, with focus on creative and optimized sys
 
 I’m working on personal projects and I work professionaly in a internet provider, more specific Technical Support. 
 
-Currently learning node.js, docker and Typescript in general. My method is jumping right into it and adapting to learn what I need to learn
+Currently learning node.js, docker and Typescript in general. My method is jumping right into it and adapting to learn what I need to learn, always trying to participate in real projects, with real experience.
  
 Looking to collaborate on projects with more complexity and teams who can add knowledge and great results in the future, as I intend to give value and learn with real experience.
 
