@@ -9,11 +9,11 @@ I'm Marcus, 22, or more like in the profile and online in general, Akyriu.
 I'm a specialized JavaScript developer, with focus on creative and optimized systems as well as back-end infrastructure.
 
 I’m working on personal projects and I work professionaly in a internet provider, more specific Technical Support. 
- 
+
 Currently learning node.js, docker and Typescript in general. My method is jumping right into it and adapting to learn what I need to learn
-. 
+ 
 Looking to collaborate on projects with more complexity and teams who can add knowledge and great results in the future, as I intend to give value and learn with real experience.
-- 
+
 Ask me about anything! I actually like to talk and I'm willing to take any advices or answer any questions regarding my personal profile.
 
 
