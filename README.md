@@ -54,4 +54,9 @@ Instagram — @akyriu - https://www.instagram.com/akyriu/
 
 GitHub — akyriuu - https://github.com/akyriuu
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinícius-4a9a713a0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akyriu@hotmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Akyriu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akyriu/)
+
 Languages: Portuguese (native) · English (fluent) · Open to remote, any timezone.
