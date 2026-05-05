@@ -15,25 +15,6 @@ Looking to collaborate with teams who value solid engineering and room to grow.
 Ask me anything — I'm genuinely open to feedback, advice, and new connections.
 
 
-## What I've Built
-
-A quick look at my progression, not just a list:
-
-
-Monitoring-System — Real-time latency dashboard for web services. TypeScript with strict config, async Fetch API, dynamic DOM-driven UI with smooth status transitions (green/yellow/red). The project I'm most proud of technically.
-
-
-Study_List_Docker — Started as a simple localStorage CRUD, migrated to PostgreSQL inside Docker. The README explains every decision. Good example of how I think about progression and production-readiness.
-
-
-Finances-Solution — Personal finance tracker in TypeScript. Full CRUD, category filters, running totals in BRL. No server needed to run it.
-
-
-Snake_Game — Vanilla JS/HTML/CSS practice project. Collision detection, score system, mobile CSS. Playable here.
-
-
-Math-Solution — Browser-based math drill tool. Random arithmetic problems (addition, subtraction, multiplication), shake animation on wrong answers, auto-advance on correct ones. TypeScript with Tailwind via CDN — no build step needed.
-
 ## Stack
 JavaScript · TypeScript · Node.js · Docker · PostgreSQL · HTML · CSS
 
