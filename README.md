@@ -1,4 +1,4 @@
-## Hello there.
+## Hello there. 💻 🎧
 
 
 I'm Marcus, known online as Akyriu — 22, JavaScript developer focused on backend infrastructure and systems that actually work.
