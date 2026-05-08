@@ -3,7 +3,7 @@
 
 I'm Marcus, known online as Akyriu — 22, JavaScript developer focused on backend infrastructure and systems that actually work.
 
-Started coding in early 2026, moving fast and building real things.
+Practical by nature — real projects are lessons
 
 Currently employed in Technical Support at an internet provider, building personal projects on the side and learning by doing: Node.js, Docker, TypeScript. My method is jumping into real problems rather than tutorials.
 Looking to collaborate with teams who value solid engineering and room to grow.
@@ -11,7 +11,7 @@ Looking to collaborate with teams who value solid engineering and room to grow.
 Ask me anything — I'm genuinely open to feedback, advice, and new connections.
 
 
-## Stack
+## Languages & Tools
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
