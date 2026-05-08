@@ -22,7 +22,7 @@ Ask me anything — I'm genuinely open to feedback, advice, and new connections.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 
-## About Akyriu
+## About me
 
 
 Across the web — same name, every platform:
