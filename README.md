@@ -22,8 +22,10 @@ Ask me anything — I'm genuinely open to feedback, advice, and new connections.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 
-## Find Akyriu
-I go by Akyriu across the web — same name, every platform:
+## About Akyriu
+
+
+Across the web — same name, every platform:
 
 E-mail - akyriu@hotmail.com
 
