@@ -1,6 +1,7 @@
 ## Hello there. 💻 🎧
 
-[![wakatime](https://wakatime.com/badge/user/93f6201d-9770-4254-80ac-4307fcc31f2e.svg)](https://wakatime.com/@93f6201d-9770-4254-80ac-4307fcc31f2e)
+[![wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/93f6201d-9770-4254-80ac-4307fcc31f2e.json&color=e05d44&style=flat&logo=wakatime)](https://wakatime.com/@93f6201d-9770-4254-80ac-4307fcc31f2e)
+
 
 
 I'm Marcus, known online as Akyriu — 22, JavaScript developer focused on backend infrastructure and systems that actually work.
