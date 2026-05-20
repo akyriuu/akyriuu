@@ -1,6 +1,6 @@
 ## Hello there. 💻 🎧
 
-[![wakatime](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/93f6201d-9770-4254-80ac-4307fcc31f2e.json&color=e05d44&style=flat&logo=wakatime)](https://wakatime.com/@93f6201d-9770-4254-80ac-4307fcc31f2e)
+[![wakatime](https://img.shields.io/badge/dynamic/json?url=https://wakatime.com/badge/user/93f6201d-9770-4254-80ac-4307fcc31f2e.json&label=WakaTime&query=$.text&color=e05d44&logo=wakatime)](https://wakatime.com/@93f6201d-9770-4254-80ac-4307fcc31f2e)
 
 
 
