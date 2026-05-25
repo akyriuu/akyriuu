@@ -5,12 +5,11 @@
 
 I'm Marcus, known online as Akyriu - 22, JavaScript developer focused on backend.
 
-Practical by nature. Real projects are lessons
 
-experiencie in Technical Support at an ISP, infrastructure, and network. Building personal projects on the side and learning by doing: Node.js, Docker, TypeScript. I usually jump into real problems, rather than tutorials.
-Looking to collaborate with teams who value solid engineering and room to grow.
+Experiencied in Technical Support at an ISP, infrastructure, and network. Building personal projects on the side and learning by doing: Node.js, Docker, TypeScript. I usually jump into real problems, rather than tutorials.
+To me, real projects are lessons.
 
-Ask me anything, I'm genuinely open to feedback, advice, and new opportunities to work on.
+Ask me anything, I'm genuinely open to feedback, advice, and new opportunities to work with Web development.
 
 
 ## Languages & Tools
