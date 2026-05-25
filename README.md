@@ -3,14 +3,14 @@
 <a href="https://wakatime.com/@93f6201d-9770-4254-80ac-4307fcc31f2e"><img src="https://wakatime.com/badge/user/93f6201d-9770-4254-80ac-4307fcc31f2e.svg" alt="Total time coded since Feb 26 2026" /></a>
 
 
-I'm Marcus, known online as Akyriu — 22, JavaScript developer focused on backend infrastructure and systems that actually work.
+I'm Marcus, known online as Akyriu - 22, JavaScript developer focused on backend.
 
 Practical by nature. Real projects are lessons
 
-Expenciered in Technical Support at an ISP, infrastructure, and network. Building personal projects on the side and learning by doing: Node.js, Docker, TypeScript. My method is jumping into real problems rather than tutorials.
+experiencie in Technical Support at an ISP, infrastructure, and network. Building personal projects on the side and learning by doing: Node.js, Docker, TypeScript. I usually jump into real problems, rather than tutorials.
 Looking to collaborate with teams who value solid engineering and room to grow.
 
-Ask me anything — I'm genuinely open to feedback, advice, and new connections.
+Ask me anything, I'm genuinely open to feedback, advice, and new opportunities to work on.
 
 
 ## Languages & Tools
