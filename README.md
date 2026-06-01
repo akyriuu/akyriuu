@@ -47,8 +47,7 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyriuu&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyriuu&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=akyriuu&theme=dark&hide_border=true"/>
 </div>
 
 <div align="center">
