@@ -1,6 +1,6 @@
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=leandrebanin&color=blueviolet&style=flat-square&label=Profile+views)
+
 [![GitHub followers](https://img.shields.io/github/followers/akyriuu?label=followers&style=flat-square&color=red)](https://github.com/akyriuu)
 
 </div>
@@ -11,11 +11,10 @@
 
 ### Hello!!
 
-Software Developer focused on backend, experiencied with infrastructure and network.
+Junior Software Developer driven by continuous learning and improvement.  
 I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
 
-[![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://akyriuu.github.io/akyriu/)
-
+[![Portfolio](https://akyriuu.github.io/akyriu/)
 
 </div>
 
@@ -54,9 +53,9 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@SEU_CANAL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcus-vinícius-4a9a713a0)
+[![Hotmail](https://img.shields.io/badge/HOTMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akyriu@hotmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Akyriu)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Akyriu)
 
 </div>
