@@ -11,8 +11,8 @@
 
 ### Hello!! I'm Marcus!
 
-Junior Software Developer driven by continuous learning and improvement.  
-I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
+Software Developer focused on backend, driven by continuous learning and improvement.  
+I build clean, scalable solutions, with experience on Infrastructure and network.
 
 [![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://akyriuu.github.io/akyriu/)
 
