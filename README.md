@@ -54,7 +54,7 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcus-vinícius-4a9a713a0)
-[![Hotmail](https://img.shields.io/badge/HOTMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akyriu@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/HOTMAIL-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:akyriu@hotmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Akyriu)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Akyriu)
 
