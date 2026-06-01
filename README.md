@@ -1,6 +1,6 @@
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=akyriuu&color=blueviolet&style=flat-square&label=Profile+views)
+  
+[![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://SEU_PORTFOLIO.com)
 [![GitHub followers](https://img.shields.io/github/followers/akyriuu?label=followers&style=flat-square&color=red)](https://github.com/akyriuu)
 
 </div>
@@ -46,9 +46,10 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 
 ## 📊 GitHub Stats
 
-<a href="https://wakatime.com/@93f6201d-9770-4254-80ac-4307fcc31f2e"><img src="https://wakatime.com/badge/user/93f6201d-9770-4254-80ac-4307fcc31f2e.svg" alt="Total time coded since Feb 26 2026" /></a>
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyriuu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyriuu&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div align="center">
 
@@ -56,8 +57,5 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@SEU_CANAL)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyriuu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyriuu&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
