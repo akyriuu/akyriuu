@@ -14,7 +14,8 @@
 Junior Software Developer driven by continuous learning and improvement.  
 I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
 
-[![Portfolio](https://akyriuu.github.io/akyriu/)
+[![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://akyriuu.github.io/akyriu/)
+
 
 </div>
 
