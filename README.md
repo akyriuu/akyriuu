@@ -48,3 +48,68 @@ GitHub — akyriuu - https://github.com/akyriuu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akyriu/)
 
 Languages: Portuguese (native) · English (fluent) · Open to remote, any timezone.
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=flat-square&label=Profile+views)
+[![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?label=followers&style=flat-square&color=red)](https://github.com/SEU_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+### Yooo! 👋 I'm Leandro A. Banin
+
+Junior Software Developer driven by continuous learning and improvement.  
+I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
+
+[![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://SEU_PORTFOLIO.com)
+
+</div>
+
+---
+
+## 💻 Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,ts,js,html,css,nodejs,react,java,vim,gradle,spring" />
+</p>
+
+---
+
+## 🗄 Database & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,supabase" />
+</p>
+
+---
+
+## ⚙️ Tools & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,rider,sourcetree,github,windows,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@SEU_CANAL)
+
+</div>
