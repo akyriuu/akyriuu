@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### Hello!!
+### Hello!! I'm Marcus!
 
 Junior Software Developer driven by continuous learning and improvement.  
 I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
