@@ -23,7 +23,7 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 ## 💻 Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,ts,js,html,css,nodejs,react,vim" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,react,vim" />
 </p>
 
 ---
