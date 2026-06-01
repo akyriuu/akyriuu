@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://SEU_PORTFOLIO.com)
+[![Portfolio](https://akyriuu.github.io/akyriu/)
 [![GitHub followers](https://img.shields.io/github/followers/akyriuu?label=followers&style=flat-square&color=red)](https://github.com/akyriuu)
 
 </div>
