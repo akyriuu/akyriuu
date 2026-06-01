@@ -11,7 +11,7 @@
 
 ### Hello!!
 
-Junior Software Developer driven by continuous learning and improvement.  
+Software Developer focused on backend, experiencied with infrastructure and network.
 I build clean, scalable solutions for real-world problems and constantly sharpen my skills through platforms.
 
 [![Portfolio](https://img.shields.io/badge/-Check%20my%20Portfolio-555?style=flat-square)](https://akyriuu.github.io/akyriu/)
