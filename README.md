@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Portfolio](https://akyriuu.github.io/akyriu/)
+![Profile Views](https://komarev.com/ghpvc/?username=leandrebanin&color=blueviolet&style=flat-square&label=Profile+views)
 [![GitHub followers](https://img.shields.io/github/followers/akyriuu?label=followers&style=flat-square&color=red)](https://github.com/akyriuu)
 
 </div>
