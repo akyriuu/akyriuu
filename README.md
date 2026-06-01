@@ -39,7 +39,7 @@ I build clean, scalable solutions for real-world problems and constantly sharpen
 ## ⚙️ Tools & Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,rider,sourcetree,github,windows,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,github,windows" />
 </p>
 
 ---
