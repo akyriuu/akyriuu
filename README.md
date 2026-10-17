@@ -24,7 +24,7 @@ Brazil 🇧🇷 · Open to Backend Engineering Opportunities
 
 </div>
 
-# about-me
+# Who am I?
 
 I build backend systems where correctness matters as much as performance.
 
@@ -89,7 +89,7 @@ Payment providers<br/>integrated
 
 Metrics refer to projects and implementations described in my portfolio.
 
-# Projects 
+# My projects
 
 01. Asynchronous Payment Pipeline
 
