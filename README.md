@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Email-Let's_talk-0891B2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=akyriuu&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+https://komarev.com/ghpvc/?username=akyriuu&style=flat-square&color=0891B2&label=PROFILE+VIEWS 
 
 Brazil 🇧🇷 · Open to Backend Engineering Opportunities
 
