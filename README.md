@@ -24,7 +24,7 @@ Brazil 🇧🇷 · Open to Backend Engineering Opportunities
 
 </div>
 
-~/about-me
+# about-me
 
 I build backend systems where correctness matters as much as performance.
 
@@ -89,7 +89,8 @@ Payment providers<br/>integrated
 
 Metrics refer to projects and implementations described in my portfolio.
 
-~/projects --featured
+# Projects 
+
 01. Asynchronous Payment Pipeline
 
 <a href="https://github.com/akyriuu"> <img src="https://img.shields.io/badge/AWS-Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Architecture-Event--Driven-0891B2?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Reliability-6366F1?style=flat-square"/>
@@ -155,7 +156,7 @@ Stack: NestJS · TypeScript · Stripe · Mercado Pago · PIX · Webhooks
 
 </div>
 
-~/tech-stack
+# What I use.
 
 <div align="center">
 
@@ -245,7 +246,7 @@ Principle: a failure that cannot be detected promptly is harder to recover from 
 
 </details>
 
-~/github --activity
+# Activity
 
 <div align="center">
 
@@ -263,13 +264,14 @@ Principle: a failure that cannot be detected promptly is harder to recover from 
 
 </div>
 
-~/currently
+# Currently
+
 🔭 Focused on backend engineering, payment reliability, and AWS.
 🧩 Interested in distributed systems and event-driven architecture.
 🧪 Improving automated testing and failure-handling strategies.
 🌱 Continuously learning about cloud architecture and production systems.
 💼 Open to backend engineering opportunities and freelance projects.
-~/contact
+# Contact
 
 Have a backend challenge, a payment system to build, or an interesting engineering opportunity?
 
