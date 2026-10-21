@@ -47,8 +47,9 @@ const marcus = {
   ],
 };
 
-I don't just build APIs that work. I design systems that behave correctly when things go wrong.
-~/engineering-impact
+I design systems that can stay secure, even when things go wrong
+
+#Impact
 
 <div align="center">
 
